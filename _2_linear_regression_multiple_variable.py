@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+
 from sklearn import linear_model
 
 price = m1*area + m2*bedrooms + m3*age + b
